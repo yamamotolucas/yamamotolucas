@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yamamotolucas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=0"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamamotolucas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="350"/>
-  <img src="https://streak-stats.demolab.com?user=yamamotolucas&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
